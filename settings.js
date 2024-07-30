@@ -1,9 +1,9 @@
 //Credit By HBMods-OFC
 const chalk = require("chalk")
-const fs = require("fs")
+const fs = require("fs"
 
 //aumto presence update
-global.AntiCallBot = true // false a i dah chuan, rawn call-tu che automatic a block a ni lovang
+global.AntiCallBot = false// false a i dah chuan, rawn call-tu che automatic a block a ni lovang
 global.GroupWcMsg = true // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
@@ -18,8 +18,8 @@ global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chu
 //info
 global.owner = ['918837094873'] // I phone number in thlak rawh
 global.ownernumber = '918837094883' // I phone number in thlak rawh
-global.ownername = "꧁HKIMA_42꧂" // I hming dah tel bawk la
-global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
+global.ownername = "HKIMA_42" // I hming dah tel bawk la
+global.location = "India, Mizoram, Khawzawl" // I awmna hmun daha
 global.botname = "HKIMA_42" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@h.kima42?si=NwerMa9nQUT5G8Iw  "
 global.themeemoji = "😘"
